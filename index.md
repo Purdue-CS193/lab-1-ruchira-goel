@@ -1,7 +1,7 @@
 # Ruchira's first CS193 Lab
 
 ### Favourite things about CS 193
-- Learning things I need to know that aren't covered in lecture (like how to use github)
+- Learning things I need to know that are not covered in lecture (like how to use github)
 - It's an easy one credit
 
 
