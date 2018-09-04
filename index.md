@@ -1,7 +1,7 @@
 # Ruchira's first CS193 Lab
 
-- 1
-- 2
+Favourite things about CS 193
+- 
 
 
 ## Welcome to GitHub Pages
