@@ -1,6 +1,7 @@
 # Ruchira's first CS193 Lab
+- 1
+- 2
 
-asdfjkl;
 
 ## Welcome to GitHub Pages
 
