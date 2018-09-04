@@ -1,6 +1,6 @@
 # Ruchira's first CS193 Lab
 
-Favourite things about CS 193
+### Favourite things about CS 193
 - 
 
 
