@@ -2,7 +2,7 @@
 
 ### Favourite things about CS 193
 - Learning things I need to know that aren't covered in lecture (like how to use github)
-- It's an easy way one credit
+- It's an easy one credit
 
 
 ## Welcome to GitHub Pages
